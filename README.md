@@ -6,7 +6,7 @@
 </p>
 
 ---
-#### 🔹Este é Meu Portfólio ⭐
+#### 🔹Olá, me chamo Leonardo e este é o meu portifolio⭐
 
-#### 🔹Acesse pelo Link: https://portifolio-five-ruddy.vercel.app/ ⭐
+#### 🔹Acesse pelo Link: https://portifolio-dun-eta.vercel.app/ ⭐
 
